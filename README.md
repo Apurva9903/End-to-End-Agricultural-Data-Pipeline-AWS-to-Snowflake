@@ -22,7 +22,7 @@ agriculture_raw_data.csv: The initial dataset containing location, soil, and cli
 
 snowflake_agriculture_etl.sql: The full script containing the storage integration, data loading logic, and feature engineering.
 
-Agriculture_Impact_Dashboard.pbix: The final Power BI report file.
+Agriculture_Analysis.pbix: The final Power BI report file.
 
 ## 🛠️ Data Engineering (Snowflake)
 Before visualization, I used Snowflake SQL to perform critical data preparation:
